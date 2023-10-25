@@ -1,1 +1,1 @@
-# Opening AR First Template
+# Standard Opening Template
