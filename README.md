@@ -1,1 +1,1 @@
-# Construction Worker Demo Template
+# Opening AR First Template
